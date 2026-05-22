@@ -12,9 +12,9 @@ public class AccountImpl extends AccountPOA {
     private HashMap<String, Double> db = new HashMap<>();
 
     public AccountImpl() {
-        db.put("ACC001", 500.00);
-        db.put("ACC002", 1500.50);
-        db.put("ACC003", 750.00);
+        db.put("ACC001", 5000.00);
+        db.put("ACC002", 15000.50);
+        db.put("ACC003", 7500.00);
     }
 
     @Override
