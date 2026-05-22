@@ -3,7 +3,7 @@
 A distributed banking system built using **CORBA (Common Object Request Broker Architecture)** in Java.  
 Implements client-server communication via IDL interfaces for core banking operations.
 
-> 📚 BCD 1 — Practical Project | University of Vocational Technology
+> 📚 BCD 1 — Practical Project
 
 ---
 
